@@ -1,2 +1,2 @@
 # ResumeBuilder
-html css js ues to create Resume Builder 
+html css js use to create Resume Builder 
